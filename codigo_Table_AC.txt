@@ -1,0 +1,8 @@
+<table>
+		<h2 Class="h2">Assassin's Creed: A Cruzada Secreta</h2>
+		<img src="img/a_cruzada_secreta.jpg"/>
+		<h3 Class="sinopse"><tr><td>Sinopse</h3></td>
+		<p Class="sinopse1"><tr><td>Muito antes de Ezio Auditore nascer e lutar pelo Credo dos Assassinos, a poderosa Irmandade já estava em plena ação. É Niccolò, pai do famoso Marco Polo, quem, em 1257, revela a história de Altaïr Ibn-La’Ahad, um dos mais importantes e extraordinários entre os Assassinos. Os acontecimentos que mudarão dramaticamente o Credo e a vida de Altaïr começam em Acre, 1191.</td>
+	<tr><td>É quando ele, a pedido de Al Mualim, parte para recuperar um artefato precioso na Terra Santa. Mas, devido à arrogância e impulsividade, ele falha e prejudica não só a Irmandade como pessoas próximas. Poupado da sentença de morte, o jovem Altaïr precisa reaprender a ser um Assassino e deve enfrentar nove cruéis inimigos, entre eles o Templário Robert de Sablé, para demonstrar seu compromisso com a própria redenção e a Irmandade.</td>
+	<tr><td>É o início de uma cruzada secreta, uma missão reveladora em uma vida marcada pelo sofrimento e pela superação, na qual conceitos como lealdade, autoconhecimento e traição nunca foram tão fortes. Conheça o verdadeiro significado do Credo dos Assassinos.</p></td>
+	</table>
